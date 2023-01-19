@@ -20,4 +20,4 @@ This project is built using **Vue.js** and **CSS**.
 
 This project follows the **MVC** architecture and implements **services** to handle the data management of the application. It utilizes **Vue.js** to handle the logic of the application and **CSS** for styling.
 
-**Note**: This repository is part of a bigger repository that contains three apps, which have been developed with a partner.
+**Note**: This repository is part of a <a href="https://github.com/AvishaiDotan/Appsus">AppSus</a> repository that contains three apps, which have been developed with a partner.
